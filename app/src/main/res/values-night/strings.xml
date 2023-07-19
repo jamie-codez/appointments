@@ -10,4 +10,10 @@
     <string name="phone">Phone</string>
     <string name="last_name">Last Name</string>
     <string name="first_name">First Name</string>
+    <string name="home">Home</string>
+    <string name="appointments">Appointments</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="fab">fab</string>
+    <string name="_10_00">10:00</string>
 </resources>

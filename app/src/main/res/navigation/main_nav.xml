@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.code.appointments.ui.splash.view.SplashFragment"
+        android:name="com.code.appointments.ui.auth.views.SplashFragment"
         android:label="fragment_splash"
         tools:layout="@layout/fragment_splash" >
         <action
@@ -41,5 +41,5 @@
         android:id="@+id/dashFragment"
         android:name="com.code.appointments.ui.dash.views.DashFragment"
         android:label="fragment_dash"
-        tools:layout="@layout/fragment_dash" />
+        tools:layout="@layout/activity_dash" />
 </navigation>
